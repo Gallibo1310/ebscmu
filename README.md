@@ -1,6 +1,4 @@
-# System Management School Management Laravel
-
-
+# CHEMISTRY LABORATORY MANAGEMENT SYSTEM OF CHEMISTRY DEPARTMENT AT CENTRAL MINDANAO UNIVERSITY
 
 ## Getting started
 
